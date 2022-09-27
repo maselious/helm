@@ -1,6 +1,6 @@
-name: Deliverybot Helm Action forked by glopezep
+name: Deliverybot Helm Action forked by maselious
 description: Deploys a helm chart
-author: glopezep
+author: maselious
 icon: box
 color: gray-dark
 inputs:
